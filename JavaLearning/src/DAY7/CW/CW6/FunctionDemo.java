@@ -1,4 +1,4 @@
-package DAY7.CW.CW7;
+package DAY7.CW.CW6;
 
 /*
 interface Function{

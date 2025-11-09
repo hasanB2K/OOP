@@ -1,4 +1,4 @@
-package DAY7.CW.CW4;
+package DAY7.CW.CW3;
 
 /*
 Predicate is a interface used to execute the conditions repeatedely.

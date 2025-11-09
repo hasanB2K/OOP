@@ -1,4 +1,4 @@
-package DAY7.CW.CW5;
+package DAY7.CW.CW4;
 
 interface Operation{
     int execute(int a,int b);
